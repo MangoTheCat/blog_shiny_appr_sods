@@ -148,8 +148,8 @@ It is then just a question of finding your way around the [Semantic UI Documenta
 
 It's amazing what you can do in such a short space of time with R's ecosystem. From quickly building a predictive model using **caret** to making an easy to use and modern-looking web application with **shiny** and **shiny.semantic**.
 
-You can check out the final app [here](https://grahamrp.shinyapps.io/soverflow_salary/), and you can download the full code for the model-building and shiny app [here](https://github.com/grahamrp/sods).
+You can check out the final app [here](https://grahamrp.shinyapps.io/soverflow_salary/), and you can download the full code for the model-building and shiny app [here](https://github.com/MangoTheCat/blog_shiny_appr_sods).
 
-What's interesting is that the other Mango (Sam) took a totally different approach to the data and his Shiny app. I used Shiny to communicate the final stage of an analysis (i.e. an interactive model), whereas Sam has focused on using the power of Shiny to help with the early stages of an analysis, for data exploration. Check out his post [here]()!
+What's interesting is that the other Mango (Sam) took a totally different approach to the data and his Shiny app. I used Shiny to communicate the final stage of an analysis (i.e. an interactive model), whereas Sam has focused on using the power of Shiny to help with the early stages of an analysis, for data exploration. Check out his post on the [Mango Blog](https://www.mango-solutions.com/blog/)!
 
 ![App screenshot](app_pic.png)
